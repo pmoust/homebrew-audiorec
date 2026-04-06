@@ -1,8 +1,8 @@
 class Audiorec < Formula
   desc "Record microphone + system audio as separate crash-safe files"
   homepage "https://github.com/pmoust/audiorec"
-  url "https://github.com/pmoust/audiorec/archive/refs/tags/v1.3.0.tar.gz"
-  sha256 "079ae315feb63f46c61147b8641ccee6e0414044351d10b9aaac6a4a5543b891"
+  url "https://github.com/pmoust/audiorec/archive/refs/tags/v1.3.1.tar.gz"
+  sha256 "f1f6984af04fef2e3e9a4386ca87f6b8a49ca68ae31750e9d98842e9be95f155"
   license "MIT"
   head "https://github.com/pmoust/audiorec.git", branch: "main"
 
